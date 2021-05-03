@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="presiona">Prueba presionar el boton</string>
+    <string name="permisos">Permisos Ganados</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Can U Hear Me</string>
+    <string name="presiona">Try pressing the button</string>
+    <string name="permisos">Permission Granted</string>
+</resources>
